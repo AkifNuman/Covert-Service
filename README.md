@@ -1,5 +1,5 @@
-PO	--------- Akif
-PM / Dev ---- Burak
-Dev --------- Mete
-3D Art ------ Bugra
+ PO	--------- Akif
+ PM / Dev ---- Burak
+ Dev --------- Mete
+ 3D Art ------ Bugra
 
