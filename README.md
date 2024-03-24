@@ -58,7 +58,7 @@ Pase 0_0 içerisinde yapılan nesneler ve karaktere multiplayer desteği getirec
 - **Hazır hale getirilmesi istenilen Cargo Paketleri**: Favelas, CityStreets, StoreFronts, Americana, Havana Nights, Brooklyn, Retail Stores, Restaurants.
 
 #### Deneysel Harita
-- **Deneysel Harita için kullanılacak Cargo Paketleri**: storefronts, neighborhood-shops, retail-stores, city-streets.
+- **Deneysel Harita için kullanılacak Cargo Paketleri**: storefronts, neighborhood-shops, retail-stores, city-streets, Los-Angeles.
 
 ### Toplantı
 
