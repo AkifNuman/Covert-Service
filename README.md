@@ -46,13 +46,14 @@ XXXX Terör gurubu tarafından ele geçirilmiş bir bölgede bulunan VIP gurubun
 
 ## Pase Değerlendirme Toplantısı
 **Pase değerlendirmesi**
-- Takımın Developerları UnrealEngin oryantasyonunu sağladı.
-- Takımın 3D Artisti kullanacağımız 3D Modellerin araştırmasını tamamladı.
+- Developerlar UnrealEngin oryantasyonunu tamamladı.
+- 3D Artist 3D Modellerin araştırmasını tamamladı.
 
 ### Başarımlar
 - **Pase içinde tamamlanan başlıklar**: Yıkılma Mekaniği, 3D Modeller, Karakter, Karakter Kontrolü.
-- **Pase içinde tamamlanan BONUS başlıklar: Oyuncuyu takip eden ve komut alan AI**
 - **Pase içinde tamamlanamayan başlıklar**: Bulunmuyor.
+
+**TAMAMLANAN BONUS BAŞLIKLAR: Oyuncuyu takip eden ve komut alan AI**
 
 ### AI & Yıkılma Mekaniği Ekran Görüntüleri
 ![covertservice-ai](https://github.com/AkifNuman/Covert-Service-Private/assets/54241620/b6359463-a69c-4056-829c-5a7bc3c7ef36)
