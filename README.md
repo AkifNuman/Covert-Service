@@ -46,6 +46,7 @@ XXXX Terör gurubu tarafından ele geçirilmiş bir bölgede bulunan VIP gurubun
 - Takımın Developerları UnrealEngin oryantasyonunu sağladı.
 - Takımın 3D Artisti kullanacağımız 3D Modellerin araştırmasını tamamladı.
 
+### Başarımlar
 - **Pase içinde tamamlanan başlıklar**: Yıkılma Mekaniği, Çevre Bileşenleri, Karakter, Karakter Kontrolü.
 - **Pase içinde tamamlanan BONUS başlıklar: Oyuncuyu takip eden ve komut alan AI**
 - **Pase içinde tamamlanamayan başlıklar**: Bulunmuyor.
