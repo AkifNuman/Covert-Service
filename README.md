@@ -35,12 +35,20 @@ XXXX Terör gurubu tarafından ele geçirilmiş bir bölgede bulunan VIP gurubun
 # PASE
 
 # Orientation Pase (Pase 0_0)
+
+## Pase Amacı
+**Takımın verilen görevleri yerine getirme seviyesini ve takımın organize bir şekilde çalışmasını ölçmek. Ayrıca Unreal Engine 5 oryantasyonunu sağlamak. 3D Modellerin araştırması.**
+
 - **Pase içinde tamamlanması tahmin edilen başlıklar**: Yıkılma Mekaniği, Çevre Bileşenleri, Karakter, Karakter Kontrolü.
 
 ### Toplantı
-- **Pase değerlendirmesi**: Takımın Dev kısmı UnrealEngin oryantasyonunu sağladı. Takımın 3D Artisti kullanacağımız 3D Modellerin araştırmasını tamamladı.
+**Pase değerlendirmesi**
+- Takımın Developerları UnrealEngin oryantasyonunu sağladı.
+- Takımın 3D Artisti kullanacağımız 3D Modellerin araştırmasını tamamladı.
 
-- **Pase içinde tamamlanan başlıklar**: Yıkılma Mekaniği, Oyuncuyu takip eden ve komut alan AI, Çevre Bileşenleri, Karakter Oynanışı.
+- **Pase içinde tamamlanan başlıklar**: Yıkılma Mekaniği, Çevre Bileşenleri, Karakter, Karakter Kontrolü.
+- **Pase içinde tamamlanan BONUS başlıklar: Oyuncuyu takip eden ve komut alan AI**
+- **Pase içinde tamamlanamayan başlıklar**: Bulunmuyor.
 
 ### AI & Yıkılma Mekaniği Ekran Görüntüleri
 ![covertservice-ai](https://github.com/AkifNuman/Covert-Service-Private/assets/54241620/b6359463-a69c-4056-829c-5a7bc3c7ef36)
@@ -48,10 +56,12 @@ XXXX Terör gurubu tarafından ele geçirilmiş bir bölgede bulunan VIP gurubun
 ![covertservice-kırılma](https://github.com/AkifNuman/Covert-Service-Private/assets/54241620/bca43a3e-54cd-4765-9978-3916c294549c)
 
 # Multiplayer Pase (Pase 1_0)
+
+## Pase Amacı
+**Pase 0_0 içerisinde yapılan nesneler ve karaktere multiplayer desteği getirecelecek.**
+
 ## Dev
 - **Pase içinde tamamlanması tahmin edilen başlıklar**: Multiplayer Desteği, IK Desteği.
-
-Pase 0_0 içerisinde yapılan nesneler ve karaktere multiplayer desteği getirecelecek.
 
 ## Art
 - **Pase içince tamamlanması tahmin edilen başlıklar**: İstenilen Cargo paketlerinin organizasyonu ve Deneysel harita için istenilen paketlerle bir harita yapılacak. 
@@ -67,4 +77,6 @@ Pase 0_0 içerisinde yapılan nesneler ve karaktere multiplayer desteği getirec
 
 ### Multiplayer Ekran Görüntüleri
 ![multiplayer](https://github.com/AkifNuman/Covert-Service-Private/assets/54241620/bb07dbb9-b118-4ad3-a7af-1f506af7e1ea)
+
+# Bootcamp Pase (Pase 2_0)
 
