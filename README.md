@@ -29,35 +29,50 @@ XXXX Terör gurubu tarafından ele geçirilmiş bir bölgede bulunan VIP gurubun
 
 - 18 yaş ve üstü için uygun bir oyundur.
 - Oyunlarda Aksiyon ve Taktik uyumunu sevenler.
-
+<br /> <br />
 ------------------------------------------------------------------------------------------------------------------------------------------
 
-## Orientation Pase (Pase 0_0)
+# Orientation Pase (Pase 0_0) (Hybrid)
 
 ### Pase Amacı
 - Takımın verilen görevleri yerine getirme seviyesini ölçmek.
 - Takımın organize bir şekilde çalışmasını ölçmek.
-- Takımın Unreal Engine 5 oryantasyonunu sağlamak.
-- 3D Modellerin Araştırılması.
+- Takımın Unreal Engine 5 oyun motoruna oryantasyonunu sağlamak.
+- Oyunun sanat tasarımının belirlenmesi.
+- Sanat tasarımına uygun 3D Model paketlerinin araştırılması.
 
-**Pase içinde tamamlanması tahmin edilen başlıklar**: Çevre Bileşenlerinin Kırılma Mekaniği, 3D Modeller, Karakter, Karakter Kontrolü.
+| 📝 Tamamlanması Tahmin Edilen Başlıklar 	| ⚙️ Sorumlu Olan Ekip 	| 💯 Puan 	|
+|----------------------------------------	|---------------------	|--------	|
+| Karakter                               	| Developer           	| 10     	|
+| Karakter Kontrolü                      	| Developer           	| 30     	|
+| Çevre Bileşenlerinin Kırılma Mekaniği  	| Developer           	| 20     	|
+| Sanat Tasarımı                         	| Game Designer       	| 25     	|
+| 3D Model Paketleri                     	| 3D Artist           	| 15     	|
 
-## Orientation Pase (Pase 0_0) Değerlendirme Toplantısı <br />
+## 🎯 **Pase 0_0 Değerlendirme Toplantısı** <br />
 ### Developerlar
-- UnrealEngin oryantasyonunu tamamladı.
+- Unreal Engine 5 oryantasyonunu tamamladı.
 - Oyuncu için karakterler oluşturuldu.
 - Oluşturulan karakterlere karakter kontrolü eklendi.
 - Çevre bileşenlerinin kırılma mekaniği projeye entegre edildi.
-- Developerlar tahmin edilen başlıklara bonus olarak AI geliştirmesi sağladı.
+- Developerlar tahmin edilen başlıklara bonus olarak AI geliştirmesi sağladı. 
 
 ### 3D Artist
-- 3D Modellerin araştırmasını tamamladı. <br />
+- Sanat tasarımı belirlendi.
+- Sanat tasarımına uygun 3D Modellerin araştırmasını tamamladı. <br />
 
 ### Başarımlar <br />
-🟢 **Pase içinde tamamlanan başlıklar**: Çevre Bileşenlerinin Kırılma Mekaniği, 3D Modeller, Karakter, Karakter Kontrolü. <br />
-🟤 **Pase içinde tamamlanamayan başlıklar**: Bulunmuyor. <br />
-<br />
-💎 **Pase içinde tamamlanan BONUS başlıklar: Oyuncuyu takip edebilen ve oyuncudan komut alabilen AI**
+
+| 🟢 Tamamlandı                          	| 💎 Bonus                     	|
+|---------------------------------------	|-----------------------------	|
+| Karakter                              	| Oyuncuyu takip edebilen AI  	|
+| Karakter Kontrolü                     	| Oyuncudan komut alabilen AI 	|
+| Çevre Bileşenlerinin Kırılma Mekaniği 	| -                           	|
+| Sanat Tasarımı                        	| -                           	|
+| 3D Model Paketleri                    	| -                           	|
+| **100 Puan**                           	| **20  Puan**                  |
+
+**Project Management Değerlendirmesi:** Hybrid çalışma sitili ile bütün ekipler belirlenen başlıkları yerine getirerek **100 puan** + **20 bonus puan** ile Orientation Pase'i tamamladı. 
 
 ### AI & Yıkılma Mekaniği Ekran Görüntüleri
 ![covertservice-ai](https://github.com/AkifNuman/Covert-Service-Private/assets/54241620/b6359463-a69c-4056-829c-5a7bc3c7ef36)
@@ -66,7 +81,7 @@ XXXX Terör gurubu tarafından ele geçirilmiş bir bölgede bulunan VIP gurubun
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
-# Multiplayer Pase (Pase 1_0)
+# Multiplayer Pase (Pase 1_0) (Remote)
 
 ## Pase Amacı
 **Pase 0_0 içerisinde yapılan nesneler ve karaktere multiplayer desteği getirecelecek.**
