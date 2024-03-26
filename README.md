@@ -72,7 +72,8 @@ XXXX Terör gurubu tarafından ele geçirilmiş bir bölgede bulunan VIP gurubun
 | 3D Model Paketleri                    	| -                           	|
 | **100 Puan**                           	| **20  Puan**                  |
 
-**Project Management Değerlendirmesi:** Hybrid çalışma sitili ile bütün ekipler belirlenen başlıkları yerine getirerek **100 puan** + **20 bonus puan** ile Orientation Pase'i tamamladı. 
+#### **Project Management Değerlendirmesi** <br />
+Hybrid çalışma sitili ile bütün ekipler belirlenen başlıkları yerine getirerek **100 puan** + **20 bonus puan** ile Orientation Pase'i tamamladı. Takımın Puan Tabanlı Proje Yönetimi ile belirlenen başlıkları tamamlama motivasyonun olduğu gözlemlendi. Hybrid çalışma sitili ile F2F tamamlanan başlıkların daha sonrasında ekip üyelerinin bireysel zamanlarında remote olarak geliştirmeye motivasyonlarının devam ettiği gözlemlenerek bu davranışın tamamlanması gereken başlıklara pozitif etkisi gözlemlendi.
 
 ### AI & Yıkılma Mekaniği Ekran Görüntüleri
 ![covertservice-ai](https://github.com/AkifNuman/Covert-Service-Private/assets/54241620/b6359463-a69c-4056-829c-5a7bc3c7ef36)
