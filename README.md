@@ -42,9 +42,9 @@ XXXX Terör gurubu tarafından ele geçirilmiş bir bölgede bulunan VIP gurubun
 - Takımın Unreal Engine 5 oryantasyonunu sağlamak.
 - 3D Modellerin Araştırılması.
 
-- **Pase içinde tamamlanması tahmin edilen başlıklar**: Yıkılma Mekaniği, 3D Modeller, Karakter, Karakter Kontrolü.
+**Pase içinde tamamlanması tahmin edilen başlıklar**: Yıkılma Mekaniği, 3D Modeller, Karakter, Karakter Kontrolü.
 
-### Toplantı
+## Pase Değerlendirme Toplantısı
 **Pase değerlendirmesi**
 - Takımın Developerları UnrealEngin oryantasyonunu sağladı.
 - Takımın 3D Artisti kullanacağımız 3D Modellerin araştırmasını tamamladı.
