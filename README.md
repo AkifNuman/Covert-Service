@@ -30,35 +30,41 @@ XXXX Terör gurubu tarafından ele geçirilmiş bir bölgede bulunan VIP gurubun
 - 18 yaş ve üstü için uygun bir oyundur.
 - Oyunlarda Aksiyon ve Taktik uyumunu sevenler.
 
+------------------------------------------------------------------------------------------------------------------------------------------
 
+## Orientation Pase (Pase 0_0)
 
-# PASE
-
-# Orientation Pase (Pase 0_0)
-
-## Pase Amacı
+### Pase Amacı
 - Takımın verilen görevleri yerine getirme seviyesini ölçmek.
 - Takımın organize bir şekilde çalışmasını ölçmek.
 - Takımın Unreal Engine 5 oryantasyonunu sağlamak.
 - 3D Modellerin Araştırılması.
 
-**Pase içinde tamamlanması tahmin edilen başlıklar**: Yıkılma Mekaniği, 3D Modeller, Karakter, Karakter Kontrolü.
+**Pase içinde tamamlanması tahmin edilen başlıklar**: Çevre Bileşenlerinin Kırılma Mekaniği, 3D Modeller, Karakter, Karakter Kontrolü.
 
-## Pase Değerlendirme Toplantısı
-**Pase değerlendirmesi**
-- Developerlar UnrealEngin oryantasyonunu tamamladı.
-- 3D Artist 3D Modellerin araştırmasını tamamladı.
+## Orientation Pase (Pase 0_0) Değerlendirme Toplantısı <br />
+### Developerlar
+- UnrealEngin oryantasyonunu tamamladı.
+- Oyuncu için karakterler oluşturuldu.
+- Oluşturulan karakterlere karakter kontrolü eklendi.
+- Çevre bileşenlerinin kırılma mekaniği projeye entegre edildi.
+- Developerlar tahmin edilen başlıklara bonus olarak AI geliştirmesi sağladı.
 
-### Başarımlar
-- **Pase içinde tamamlanan başlıklar**: Yıkılma Mekaniği, 3D Modeller, Karakter, Karakter Kontrolü.
-- **Pase içinde tamamlanamayan başlıklar**: Bulunmuyor.
+### 3D Artist
+- 3D Modellerin araştırmasını tamamladı. <br />
 
-**TAMAMLANAN BONUS BAŞLIKLAR: Oyuncuyu takip eden ve komut alan AI**
+### Başarımlar <br />
+🟢 **Pase içinde tamamlanan başlıklar**: Çevre Bileşenlerinin Kırılma Mekaniği, 3D Modeller, Karakter, Karakter Kontrolü. <br />
+🟤 **Pase içinde tamamlanamayan başlıklar**: Bulunmuyor. <br />
+<br />
+💎 **Pase içinde tamamlanan BONUS başlıklar: Oyuncuyu takip edebilen ve oyuncudan komut alabilen AI**
 
 ### AI & Yıkılma Mekaniği Ekran Görüntüleri
 ![covertservice-ai](https://github.com/AkifNuman/Covert-Service-Private/assets/54241620/b6359463-a69c-4056-829c-5a7bc3c7ef36)
 
 ![covertservice-kırılma](https://github.com/AkifNuman/Covert-Service-Private/assets/54241620/bca43a3e-54cd-4765-9978-3916c294549c)
+
+------------------------------------------------------------------------------------------------------------------------------------------
 
 # Multiplayer Pase (Pase 1_0)
 
@@ -82,6 +88,8 @@ XXXX Terör gurubu tarafından ele geçirilmiş bir bölgede bulunan VIP gurubun
 
 ### Multiplayer Ekran Görüntüleri
 ![multiplayer](https://github.com/AkifNuman/Covert-Service-Private/assets/54241620/bb07dbb9-b118-4ad3-a7af-1f506af7e1ea)
+
+------------------------------------------------------------------------------------------------------------------------------------------
 
 # Bootcamp Pase (Pase 2_0)
 
