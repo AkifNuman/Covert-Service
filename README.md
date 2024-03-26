@@ -37,9 +37,12 @@ XXXX Terör gurubu tarafından ele geçirilmiş bir bölgede bulunan VIP gurubun
 # Orientation Pase (Pase 0_0)
 
 ## Pase Amacı
-**Takımın verilen görevleri yerine getirme seviyesini ve takımın organize bir şekilde çalışmasını ölçmek. Ayrıca Unreal Engine 5 oryantasyonunu sağlamak. 3D Modellerin araştırması.**
+- Takımın verilen görevleri yerine getirme seviyesini ölçmek.
+- Takımın organize bir şekilde çalışmasını ölçmek.
+- Takımın Unreal Engine 5 oryantasyonunu sağlamak.
+- 3D Modellerin Araştırılması.
 
-- **Pase içinde tamamlanması tahmin edilen başlıklar**: Yıkılma Mekaniği, Çevre Bileşenleri, Karakter, Karakter Kontrolü.
+- **Pase içinde tamamlanması tahmin edilen başlıklar**: Yıkılma Mekaniği, 3D Modeller, Karakter, Karakter Kontrolü.
 
 ### Toplantı
 **Pase değerlendirmesi**
@@ -47,7 +50,7 @@ XXXX Terör gurubu tarafından ele geçirilmiş bir bölgede bulunan VIP gurubun
 - Takımın 3D Artisti kullanacağımız 3D Modellerin araştırmasını tamamladı.
 
 ### Başarımlar
-- **Pase içinde tamamlanan başlıklar**: Yıkılma Mekaniği, Çevre Bileşenleri, Karakter, Karakter Kontrolü.
+- **Pase içinde tamamlanan başlıklar**: Yıkılma Mekaniği, 3D Modeller, Karakter, Karakter Kontrolü.
 - **Pase içinde tamamlanan BONUS başlıklar: Oyuncuyu takip eden ve komut alan AI**
 - **Pase içinde tamamlanamayan başlıklar**: Bulunmuyor.
 
