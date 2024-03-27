@@ -87,8 +87,22 @@ Hybrid çalışma sitili ile esnek çalışma saatleri sayesinde F2F tamamlanan 
 
 # Multiplayer Pase (Pase 1_0) (Remote)
 
-## Pase Amacı
-**Pase 0_0 içerisinde yapılan nesneler ve karaktere multiplayer desteği getirecelecek.**
+### Pase Amacı
+- Takımın Remote çalışma verimini ölçmek.
+- Multiplayer altyapısını oluşturmak.
+- Pase 0_0 içerisinde yapılan mekanikleri multiplayer için optimize etmek.
+- Karakter'e animasyon ekleme.
+- Bulunan 3D paketlerin içeriklerinin kullanıma hazır hale getirilmesi.
+- Belirtilen 3D paketler ile 1 adet level-design etmek.
+
+| 📝 Tamamlanması Tahmin Edilen Başlıklar         	| ⚙️ Sorumlu Olan Ekip 	| 💯 Puan 	|
+|------------------------------------------------	|---------------------	|--------	|
+| Multiplayer Altyapısı                          	| Developer           	| 40     	|
+| İçeriklere multiplayer desteği                 	| Developer           	| 10     	|
+| Karakter için IK Desteği                       	| Developer           	| 10     	|
+| Karakter'e animasyon ekleme                    	| Developer           	| 10     	|
+| 3D modellerin kullanıma uygun hale getirilmesi 	| 3D Artist           	| 20     	|
+| Bir adet level-design                          	| Game Designer       	| 10     	|
 
 ## Dev
 - **Pase içinde tamamlanması tahmin edilen başlıklar**: Multiplayer Desteği, IK Desteği.
