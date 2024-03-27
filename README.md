@@ -77,7 +77,7 @@ XXXX Terör gurubu tarafından ele geçirilmiş bir bölgede bulunan VIP gurubun
 
 ![covertservice-kırılma](https://github.com/AkifNuman/Covert-Service-Private/assets/54241620/bca43a3e-54cd-4765-9978-3916c294549c)
 
-<br /> <br />
+<br />
 
 ## **💡 Pase 0_0 Project Management Değerlendirmesi** <br />
 Hybrid çalışma sitili ile bütün ekipler belirlenen başlıkları yerine getirerek **100 puan** + **20 bonus puan** ile Orientation Pase'i tamamladı. Takımın Puan Tabanlı Proje Yönetimi ile belirlenen başlıkları tamamlama motivasyonun olduğu gözlemlendi.<br /> <br />
@@ -95,21 +95,25 @@ Hybrid çalışma sitili ile esnek çalışma saatleri sayesinde F2F tamamlanan 
 - Bulunan 3D paketlerin içeriklerinin kullanıma hazır hale getirilmesi.
 - Belirtilen 3D paketler ile 1 adet level-design etmek.
 
-| 📝 Tamamlanması Tahmin Edilen Başlıklar         	| ⚙️ Sorumlu Olan Ekip 	| 💯 Puan 	|
-|------------------------------------------------	|---------------------	|--------	|
-| Multiplayer Altyapısı                          	| Developer           	| 40     	|
-| İçeriklere multiplayer desteği                 	| Developer           	| 10     	|
-| Karakter için IK Desteği                       	| Developer           	| 10     	|
-| Karakter'e animasyon ekleme                    	| Developer           	| 10     	|
-| 3D modellerin kullanıma uygun hale getirilmesi 	| 3D Artist           	| 20     	|
-| Bir adet level-design                          	| Game Designer       	| 10     	|
+| 📝 Tamamlanması Tahmin Edilen Başlıklar            	| ⚙️ Sorumlu Olan Ekip 	| 💯 Puan 	|
+|---------------------------------------------------	|---------------------	|--------	|
+| Multiplayer Altyapısı                             	| Developer           	| 40     	|
+| İçeriklere multiplayer desteği                    	| Developer           	| 10     	|
+| Karakter için IK Desteği                          	| Developer           	| 10     	|
+| Karakter'e animasyon ekleme                       	| Developer           	| 10     	|
+| Cargo 3D paketin kullanıma uygun hale getirilmesi 	| 3D Artist           	| 20     	|
+| Bir adet level-design                             	| Game Designer       	| 10     	|
 
-## Dev
-- **Pase içinde tamamlanması tahmin edilen başlıklar**: Multiplayer Desteği, IK Desteği.
-
-## Art
-- **Pase içince tamamlanması tahmin edilen başlıklar**: İstenilen Cargo paketlerinin organizasyonu ve Deneysel harita için istenilen paketlerle bir harita yapılacak. 
-- **Hazır hale getirilmesi istenilen Cargo Paketleri**: Favelas, CityStreets, StoreFronts, Americana, Havana Nights, Brooklyn, Retail Stores, Restaurants.
+| İstenilen Cargo 3D paketleri 	|
+|------------------------------	|
+| Favelas                      	|
+| CityStreets                  	|
+| StoreFronts                  	|
+| Americana                    	|
+| Havana Nights                	|
+| Brooklyn                     	|
+| Retail Stores                	|
+| Restaurants                  	|
 
 #### Deneysel Harita
 - **Deneysel Harita için kullanılacak Cargo Paketleri**: storefronts, neighborhood-shops, retail-stores, city-streets, Los-Angeles.
