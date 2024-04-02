@@ -129,6 +129,11 @@ Hybrid çalışma sitili ile esnek çalışma saatleri sayesinde F2F tamamlanan 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 # Bootcamp Pase (Pase 2_0)
+
+![ai_walk](https://github.com/AkifNuman/Covert-Service/assets/54241620/a0e9da34-9a86-45a9-ad49-83d32c119adc)
+
 ![vip komut verme](https://github.com/AkifNuman/Covert-Service/assets/54241620/318a89bb-302f-44b0-9517-e5f19d391c82)
 
 ![vip cagırma](https://github.com/AkifNuman/Covert-Service/assets/54241620/eff3a5d7-e783-47de-8053-84764a9ba825)
+
+![collaps](https://github.com/AkifNuman/Covert-Service/assets/54241620/439ac319-40b4-45e4-baf5-974fd826211c)
