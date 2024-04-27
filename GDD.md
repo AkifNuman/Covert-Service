@@ -7,13 +7,13 @@ Covert-Service iki oyuncu gurubu arasında geçen taktiksel ilerlemeye dayalı b
 XXXX Terör gurubu tarafından ele geçirilmiş bir bölgede bulunan VIP gurubunu güvenli alana getirmek için XXXX Terör gurubunun bulunduğu merkez üssüne bir keşif XXXX Polis timi gönderilir. Farklı operasyon haritalarında eşsiz mekanikler ile beraber farklı taktikler uygulayarak XXXX Polis timi VIP'lerin bulunduğu konuma gelir. XXXX Polis timi VIP'leri güvenli alana geri götürürken XXXX Terör gurubunu ile çatıtışrlar. Görev boyunca XXXX Polis timi ve XXXX Terör gurubu farklı taktikler uygulayarak iki gurubunda amaçlarına engel olmaya çalışırlar.
 
 ### Hikaye
-Oyunun hikayesini ve dünyasını tanımlayın.
+Harita ve göreve göre farklı Hikayeler olacak.
 
 ### Karakterler
-Ana karakterler ve onların özellikleri.
+Her bir karakterin kendine özgü hikayesi olacak (Tom Clancy's Rainbow Six Siege)
 
 ### Oynanış
-Oyun mekanikleri ve kullanıcı etkileşimleri.
+Araba sürme, kapı ve pencere etkileşimleri, NPC'lere komut verme, Silah ve Ekipmanlar seçimi, Seçilebilir karakter sınıfları gibi çeşitli özellikler.
 
 
 ---
@@ -40,9 +40,6 @@ Oyunun müzik ve ses tasarımı, oyuncuların çevre ile etkileşimini arttırma
 
 ---
 
-
-## Teknoloji
-Kullanılacak oyun motoru ve teknolojiler.
 
 ### Oyun Motoru
 Oyunun geliştirileceği platform ve motor.
